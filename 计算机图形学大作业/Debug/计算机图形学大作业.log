@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(计算机图形学大作业.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  bunny.cpp
+C:\Users\86188\Desktop\大三上学期\图形学\大作业\兔子最终版\计算机图形学大作业\bunny.cpp(33,47): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\86188\Desktop\大三上学期\图形学\大作业\兔子最终版\计算机图形学大作业\bunny.cpp(33,55): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\86188\Desktop\大三上学期\图形学\大作业\兔子最终版\计算机图形学大作业\bunny.cpp(33,63): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\86188\Desktop\大三上学期\图形学\大作业\兔子最终版\计算机图形学大作业\bunny.cpp(437,13): warning C4244: “/=”: 从“double”转换到“GLfloat”，可能丢失数据
+  计算机图形学大作业.vcxproj -> C:\Users\86188\Desktop\大三上学期\图形学\大作业\兔子最终版\Debug\Stanford_Bunny.exe
